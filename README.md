@@ -1,14 +1,8 @@
 ![Passivbot](docs/images/pbot_logo_full.svg)
-
 # Trading bot running on Bybit, Binance, OKX, Kucoin and Bitget
-
 :warning: **Use at own risk** :warning:
-
 v6.1.0
-
-
 ## Overview
-
 Passivbot is a cryptocurrency trading bot written in Python, intended to require minimal user intervention.  
 It is observed that prices in a market will fluctuate up and down, creating opportunities for capitalizing on the noise.  
 The bot's purpose is to automate the harvest.
